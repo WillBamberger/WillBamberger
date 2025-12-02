@@ -1,4 +1,7 @@
 ## Hi there 👋
+### I'm Will, a computer scientist focused on systems programming, networking, and ML/AI
+### I am also proficient in full stack web development with my most recent website done in NodeJS + Express using various libraries such as MSAL, Lenis + GSAP, nodemailer, etc. 
+### 
 
 <!--
 **WillBamberger/WillBamberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
